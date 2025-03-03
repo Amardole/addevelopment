@@ -1,6 +1,7 @@
 # ADdevelopment
 
-- ** Live Project:** [Live ] (https://amardole.github.io/addevelopment/)
+- - **Live Project:** [Live ](https://amardole.github.io/addevelopment/)
+ 
 
 Welcome to **ADdevelopment**, a platform that offers stock market courses to users with an easy and seamless enrollment process.
 
@@ -14,9 +15,7 @@ Welcome to **ADdevelopment**, a platform that offers stock market courses to use
 - **Backend:** Firebase (for authentication and data storage)
 - **Database:** Firestore
 - **API Integration:** Google Forms for user data collection
-
-## 📷 Screenshots
-*(Add relevant screenshots of your app here)*
+  
 
 ## 🔧 Installation
 1. Clone this repository:
