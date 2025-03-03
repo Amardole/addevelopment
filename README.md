@@ -32,7 +32,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 ## 📩 Contact
 For any queries or collaborations, reach out via:
 - **Email:** amardole7576@gmail.com
-- **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/amar-dole-41156b240) 
+- **LinkedIn:** [Amar Dole](https://linkedin.com/in/amar-dole-41156b240) 
 
 ---
 Made with ❤️ by **ADdevelopment Team**
